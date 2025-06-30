@@ -63,4 +63,4 @@ This honeypot is for **educational and research purposes only**. Do **NOT** expo
 
 ## 📧 Contact
 
-Made by [Abdullah](https://github.com/Rzfn2) — feel free to reach out!
+Made by [Abdullah Banwair](https://github.com/Rzfn2) — feel free to reach out!
